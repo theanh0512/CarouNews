@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_title_top">56dp</dimen>
+    <dimen name="margin_top_rv">62dp</dimen>
+
+    <dimen name="margin_mini">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_small_medium">12dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+    <dimen name="margin_big_2">32dp</dimen>
+    <dimen name="margin_big_3">48dp</dimen>
+
+    <dimen name="none">0dp</dimen>
+    <dimen name="thumbnail_size">150dp</dimen>
+    <dimen name="item_size">600dp</dimen>
+    <dimen name="space_large">120dp</dimen>
+
+    //font
+    <dimen name="font_size_title">96sp</dimen>
+    <dimen name="font_size_big">20sp</dimen>
+    <dimen name="font_size_medium">16sp</dimen>
+    <dimen name="font_size_small_medium">14sp</dimen>
+    <dimen name="font_size_small">12sp</dimen>
+    <dimen name="font_size_error">54sp</dimen>
+    <dimen name="radius">4dp</dimen>
+</resources>
